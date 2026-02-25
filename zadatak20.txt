@@ -54,4 +54,3 @@ int main()
     printf("\nNajveci obim je %.2f i nalzi se napoziciji %d", m, lok);
     return 0;
 }
-
